@@ -1,6 +1,9 @@
 # this is made by creating file in github
 print("Hello World")
 
-print("You gotta get to the mental lab")
+message1 = "learned euclidean algorithm yesterday"
 
-print("Missed another day, get better!")
+message2 = "will probably learn containers today hopefully get to module 3"
+
+print(message1)
+print(message2)
