@@ -1,9 +1,8 @@
 # this is made by creating file in github
 print("Hello World")
 
-message1 = "learned euclidean algorithm yesterday"
+journal1 = "learned euclidean algorithm yesterday"
 
-message2 = "will probably learn containers today hopefully get to module 3"
+journal2 = "will probably learn containers today hopefully get to module 3"
 
-print(message1)
-print(message2)
+journal3 = "I stopped learning containers and will finsihed tomorrow or the next day the intro to cloud then get back to contianer"
